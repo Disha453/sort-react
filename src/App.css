@@ -1,0 +1,6 @@
+th,
+td,
+table {
+  border: 2px solid rgb(255, 170, 1);
+  padding: 20px;
+}
